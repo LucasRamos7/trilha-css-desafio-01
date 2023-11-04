@@ -113,3 +113,24 @@ span{
     max-width: 250px;
     text-shadow: 3px 2px #33A8DB;
 }
+
+#professional-challenges{
+    text-align: center;
+    width: 800px;
+}
+
+footer{
+    text-align: center;
+    padding: 60px 0;
+}
+
+footer img{
+    width: 300px;
+}
+
+footer a{
+    text-decoration: none;
+    font-weight: bold;
+    color: #33A8DB;
+}
+    
